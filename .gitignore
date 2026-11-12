@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Runtime state and logs
+posted_log.json
+posted_log.json.corrupt-*
+*.log
+
+# Personal content (copy the *.example files to start)
+tweets.json
+images/*
+!images/.gitkeep
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Local backups
+backup_*/

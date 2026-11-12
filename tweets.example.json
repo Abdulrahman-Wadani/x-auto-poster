@@ -1,0 +1,7 @@
+{
+  "tweets": [
+    {"id": "t1", "text": "First example post. Replace these with your own content."},
+    {"id": "t2", "text": "Second example post. Each id must be unique."},
+    {"id": "t3", "text": "Third example post."}
+  ]
+}

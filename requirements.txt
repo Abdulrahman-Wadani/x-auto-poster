@@ -1,0 +1,5 @@
+tweepy==4.17.0
+requests==2.34.2
+requests-oauthlib==2.0.0
+python-dotenv==1.2.3
+pillow==13.0.0
