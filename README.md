@@ -64,3 +64,7 @@ WINDOWS = [
 ## Notes
 
 - `.env`, `tweets.json`, `images/`, logs and state files are git-ignored – never commit your API keys.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
